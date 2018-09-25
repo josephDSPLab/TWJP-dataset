@@ -15,4 +15,3 @@ This is a kind of prototype to developing a dataset by python. We use `metadata.
 ## TODO
 * Developing `file_dragger` (and rename it if needed)
 * Revise `build_meta` and `add_keyword`. (Maybe combine the two with a simple GUI?)
-# TWJP-dataset
