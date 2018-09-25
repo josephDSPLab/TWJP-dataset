@@ -1,0 +1,13 @@
+oosaka_0.wav:
+  location: train station
+  location_det: Standing in front of the ticket machine.
+  soundsource: 
+    - ticket machine
+    - vocal sound
+  soundsource_det: 
+    ticket machine:
+      - [46, 48, 'beep sound']
+      - [54, 55, 'beep sound']
+oosaka_1.wav:
+  location: ...
+  location_det: ...
